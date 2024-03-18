@@ -1,5 +1,0 @@
-{
-    "yaml.schemas": {
-        "kubernetes://schema/apps/v1%40deployment": "file:///Users/albert/Documents/Code/ticketing/infra/k8s/auth-depl.yaml"
-    }
-}
